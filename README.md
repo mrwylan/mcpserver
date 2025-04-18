@@ -1,4 +1,4 @@
-* my own mcp server
+* my own mcp server - a simple list of colors and hex values
 
 This simple demo is based on the youtoube tutorial from dan vega.
 

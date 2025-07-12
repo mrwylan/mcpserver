@@ -15,6 +15,12 @@
     <name>my_mcp_server</name>
     <description>my_mcp_server</description>
 
+    <developers>
+    </developers>
+
+    <licenses>
+    </licenses>
+
     <properties>
         <java.version>21</java.version>
         <spring-ai.version>1.0.0</spring-ai.version>

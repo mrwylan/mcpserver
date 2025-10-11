@@ -1,4 +1,4 @@
-* my own mcp server - a simple list of colors and hex values
+# my own mcp server - a simple list of colors and hex values
 
 This simple demo is based on the youtoube tutorial from dan vega.
 
@@ -6,7 +6,7 @@ This simple demo is based on the youtoube tutorial from dan vega.
 
 [See Spring Boot documentation](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-server-boot-starter-docs.html#_creating_a_spring_boot_application_with_mcp_server)
 
-** prerequisite
+## prerequisite
 
 To demo the running mcp server i used claude desktop installation.
 Developer mode should be enabled.
@@ -32,11 +32,11 @@ Replace the settings with your specific build and java path.
 
 Run `mvn package` to build the jar.
 
-** what the mcp exposes
+## what the mcp exposes
 
 The server exposes a list of color name, hex value pairs. 
 With this list you can interact: list all, get one, add one color entry.
 
-** a chat, done with this demo
+## a chat, done with this demo
 
 [Claude Chat Link](https://claude.ai/share/bc9dc8aa-3c41-49eb-988c-a2b620953883)

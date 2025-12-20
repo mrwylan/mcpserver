@@ -11,13 +11,13 @@ import java.util.List;
 @SpringBootApplication
 public class MyMcpServerApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(MyMcpServerApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(MyMcpServerApplication.class, args);
+	}
 
-    @Bean
-    public List<ToolCallback> colorTools(ColorTranslationService colorTranslationService) {
-        return List.of(ToolCallbacks.from(colorTranslationService));
-    }
+	@Bean
+	public List<ToolCallback> colorTools(ColorTranslationService colorTranslationService) {
+		return List.of(ToolCallbacks.from(colorTranslationService));
+	}
 
 }

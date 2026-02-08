@@ -41,3 +41,12 @@ With this list you can interact: list all, get one, add one color entry.
 ## a chat, done with this demo
 
 [Claude Chat Link](https://claude.ai/share/bc9dc8aa-3c41-49eb-988c-a2b620953883)
+
+## inspection of the mcp endpoint
+
+```bash
+npx @modelcontextprotocol/inspector
+```
+
+This will start the inspector, open the browser where you can connect to the mcp endpoint.
+

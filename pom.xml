@@ -12,6 +12,7 @@
     <groupId>info.wylan</groupId>
     <artifactId>mymcp</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+
     <name>my_mcp_server</name>
     <description>my_mcp_server</description>
 

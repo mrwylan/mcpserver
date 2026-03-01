@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>4.0.0</version>
+        <version>4.0.3</version>
     </parent>
 
     <groupId>info.wylan</groupId>
@@ -23,7 +23,7 @@
 
     <properties>
         <java.version>25</java.version>
-        <spring-ai.version>1.0.3</spring-ai.version>
+        <spring-ai.version>2.0.0-M2</spring-ai.version>
     </properties>
 
     <dependencies>
